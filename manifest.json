@@ -21,13 +21,13 @@
   "screenshots": [
     {
       "src": "https://cdn.shopify.com/s/files/1/0893/9421/7308/files/Screenshot_2025-02-05-13-17-27-494_com.google.android.gm-edit.jpg?v=1738757883",
-      "sizes": "1080x1920",
+      "sizes": "1080x1003",
       "type": "image/png",
       "form_factor": "narrow"
     },
     {
       "src": "https://cdn.shopify.com/s/files/1/0893/9421/7308/files/Capture_d_ecran_2025-02-05_103422.png?v=1738749986",
-      "sizes": "1920x1080",
+      "sizes": "640x603",
       "type": "image/png",
       "form_factor": "wide"
     }
